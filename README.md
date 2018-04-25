@@ -35,3 +35,4 @@ In JSX, all tags must close. A good example of where this can cause problems is 
 
 [Webpack]: https://webpack.github.io
 [babelify]: https://github.com/babel/babelify
+<p data-visibility='hidden'>PHRG React JSX Lab</p>
